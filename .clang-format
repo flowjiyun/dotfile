@@ -1,0 +1,4 @@
+BasedOnStyle: LLVM
+PointerBindsToType: true
+IndentWidth: 4
+AllowShortFunctionsOnASingleLine: true
